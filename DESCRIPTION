@@ -6,6 +6,7 @@ Author: Timothee Poisot <tpoisot@um2.fr>, Rene Sachse <rene.sachse@googlemail.co
 Maintainer: Timothee Poisot <tpoisot@um2.fr>
 Depends: R (>= 2.2.0)
 Imports: jpeg
+Suggests: devtools, roxygen2
 Description: Allows to get the data from a graph by providing calibration points
 License: GPL (>= 2) 
 URL: http://www.timotheepoisot.fr/r
