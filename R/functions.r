@@ -27,7 +27,7 @@ ReadAndCal = function(fname)
 #' @export ReadImg
 ReadImg = function(fname)
 {
-	img <- readJPEG(fname)
+	img <- jpeg::readJPEG(fname)
   op <- par(mar=c(0,0,0,0))
   on.exit(par(op))
 	plot.new()

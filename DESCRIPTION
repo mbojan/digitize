@@ -4,7 +4,8 @@ Date: 2013-07-04
 Title: digitize : a plot digitizer in R
 Author: Timothee Poisot <tpoisot@um2.fr>, Rene Sachse <rene.sachse@googlemail.com>
 Maintainer: Timothee Poisot <tpoisot@um2.fr>
-Depends: R (>= 2.2.0), jpeg
+Depends: R (>= 2.2.0)
+Imports: jpeg
 Description: Allows to get the data from a graph by providing calibration points
 License: GPL (>= 2) 
 URL: http://www.timotheepoisot.fr/r
